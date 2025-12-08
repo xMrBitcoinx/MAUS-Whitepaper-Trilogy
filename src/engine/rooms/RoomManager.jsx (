@@ -1,0 +1,6 @@
+// src/engine/rooms/RoomManager.jsx
+import GenesisRoom from "./GenesisRoom";
+
+export default function RoomManager() {
+  return <GenesisRoom />;
+}
