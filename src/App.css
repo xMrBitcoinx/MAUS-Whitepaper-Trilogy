@@ -1,0 +1,31 @@
+/* 📁 src/App.css */
+
+/* Styles specific to the App component */
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  color: #00ff00; /* Bright green for the header */
+  font-size: 3rem;
+}
+
+.App p {
+  color: #cccccc; /* Light gray text for paragraph */
+  font-size: 1.2rem;
+}
+
+.App button {
+  background-color: #333; /* Dark background for buttons */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.App button:hover {
+  background-color: #555; /* Hover effect */
+}
